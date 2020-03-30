@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3449715-1b06-4e69-8cd2-8e9f4016d17a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="flasktpp@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="flasktpp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="flasktpp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="flasktpp: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UW2qfS7szEw7n6ztIAs65nqI0e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/BaiduNetdiskDownload/Day9/code/Day24/Day24/FlaskTpp" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FLASK\TPP\App\apis\common" />
+      <recent name="D:\FLASK\copy_test1\App" />
+      <recent name="D:\FLASK\test1\App" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FLASK\TPP" />
+      <recent name="D:\FLASK\TPP\App\apis\movie_user" />
+      <recent name="D:\FLASK\TPP\App\models\movie_user" />
+      <recent name="D:\FLASK\TPP\App\apis\cinema_admin" />
+      <recent name="D:\FLASK\TPP\App\models\cinema_admin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.insertCities">
+    <configuration name="Spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask_API" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc/Spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="first_blue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask_API" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App/views" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/views/first_blue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insertCities" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask_API" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App/doc/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/doc/code/insertCities.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sendSMS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask_API" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doc/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc/code/sendSMS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (manage.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <option name="flaskDebug" value="true" />
+      <module name="Flask_API" />
+      <option name="target" value="$PROJECT_DIR$/manage.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (manage.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="Flask_API" />
+      <option name="target" value="$PROJECT_DIR$/manage.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.insertCities" />
+        <item itemvalue="Flask server.Flask (manage.py)" />
+        <item itemvalue="Python.Spider" />
+        <item itemvalue="Python.sendSMS" />
+        <item itemvalue="Python.first_blue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3449715-1b06-4e69-8cd2-8e9f4016d17a" name="Default Changelist" comment="" />
+      <created>1575458222978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575458222978</updated>
+      <workItem from="1575458224360" duration="431000" />
+      <workItem from="1575458735342" duration="1539000" />
+      <workItem from="1575537821030" duration="11314000" />
+      <workItem from="1575623239904" duration="8585000" />
+      <workItem from="1575688335773" duration="1256000" />
+      <workItem from="1575954117598" duration="5706000" />
+      <workItem from="1576124405560" duration="1874000" />
+      <workItem from="1576208867459" duration="6317000" />
+      <workItem from="1576238263006" duration="3501000" />
+      <workItem from="1576301611853" duration="7332000" />
+      <workItem from="1576327285722" duration="553000" />
+      <workItem from="1576557359230" duration="10288000" />
+      <workItem from="1576673903558" duration="680000" />
+      <workItem from="1577428964628" duration="1370000" />
+      <workItem from="1577430691017" duration="818000" />
+      <workItem from="1577431620589" duration="22921000" />
+      <workItem from="1577508253494" duration="257000" />
+      <workItem from="1577511863944" duration="8643000" />
+      <workItem from="1577689396652" duration="687000" />
+      <workItem from="1578118931957" duration="85000" />
+      <workItem from="1578119171482" duration="911000" />
+      <workItem from="1578120638196" duration="1534000" />
+      <workItem from="1578124461422" duration="93000" />
+      <workItem from="1578126861731" duration="349000" />
+      <workItem from="1578127226978" duration="417000" />
+      <workItem from="1578275309363" duration="1464000" />
+      <workItem from="1578624873210" duration="113000" />
+      <workItem from="1578654878084" duration="1850000" />
+      <workItem from="1578823119350" duration="1679000" />
+      <workItem from="1579245140722" duration="359000" />
+      <workItem from="1579245906246" duration="6728000" />
+      <workItem from="1579493214429" duration="13531000" />
+      <workItem from="1579595935106" duration="4602000" />
+      <workItem from="1579925565115" duration="3773000" />
+      <workItem from="1580274380317" duration="425000" />
+      <workItem from="1580791972563" duration="953000" />
+      <workItem from="1580794514667" duration="1957000" />
+      <workItem from="1580796739518" duration="5214000" />
+      <workItem from="1580894495261" duration="673000" />
+      <workItem from="1580979105303" duration="13000" />
+      <workItem from="1582910512355" duration="695000" />
+      <workItem from="1583040852049" duration="46000" />
+      <workItem from="1583121535928" duration="11107000" />
+      <workItem from="1583133953224" duration="6310000" />
+      <workItem from="1583210594296" duration="16029000" />
+      <workItem from="1583313715248" duration="3748000" />
+      <workItem from="1583379311114" duration="28129000" />
+      <workItem from="1583468584858" duration="24498000" />
+      <workItem from="1583553263716" duration="1774000" />
+      <workItem from="1583642099626" duration="59000" />
+      <workItem from="1584248809372" duration="193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="108" key="#HTTP_Proxy" timestamp="1579494194196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="108" key="#HTTP_Proxy/0.0.1536.824@0.0.1536.824" timestamp="1579494194196" />
+    <state x="361" y="74" key="#Inspections" timestamp="1583127389381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1583127389381" />
+    <state x="361" y="71" key="#Notifications" timestamp="1577535990764">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1577535990764" />
+    <state x="570" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583138603462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583138603462" />
+    <state x="388" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577533135993">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="388" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1577533135993" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579493615803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1579493615803" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1577536216943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1536.824@0.0.1536.824" timestamp="1577536216943" />
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1584248916448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584248916448" />
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom" timestamp="1583385970284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583385970284" />
+    <state width="1493" height="205" key="GridCell.Tab.0.center" timestamp="1583385970284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583385970284" />
+    <state width="1493" height="205" key="GridCell.Tab.0.left" timestamp="1583385970284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583385970284" />
+    <state width="1493" height="205" key="GridCell.Tab.0.right" timestamp="1583385970284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583385970284" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1583496574329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583496574329" />
+    <state x="618" y="286" width="333" height="277" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1583385888184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="286" width="333" height="277" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1583385888184" />
+    <state x="349" y="70" key="com.intellij.database.dbimport.ImportDialog" timestamp="1583385716353">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="70" key="com.intellij.database.dbimport.ImportDialog/0.0.1536.824@0.0.1536.824" timestamp="1583385716353" />
+    <state x="553" y="238" width="429" height="340" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1583413359859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="238" width="429" height="340" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1536.824@0.0.1536.824" timestamp="1583413359859" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583133955613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583133955613" />
+    <state x="510" y="59" key="refactoring.ChangeSignatureDialog" timestamp="1583382295573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="59" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1583382295573" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583225122012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583225122012" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Flask_API$insertCities.coverage" NAME="insertCities Coverage Results" MODIFIED="1583385960010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App/doc/code" />
+    <SUITE FILE_PATH="coverage/Flask_API$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1580894512882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/test1$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1575538203696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/test1$Flask__manage_py___1_.coverage" NAME="Flask (manage.py) (1) Coverage Results" MODIFIED="1575538836985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Flask_API$Spider.coverage" NAME="Spider Coverage Results" MODIFIED="1579942475985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doc" />
+    <SUITE FILE_PATH="coverage/test1$sendSMS.coverage" NAME="sendSMS Coverage Results" MODIFIED="1577531693679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doc/code" />
+    <SUITE FILE_PATH="coverage/test1$Flask__app_py___1_.coverage" NAME="Flask (app.py) (1) Coverage Results" MODIFIED="1575538170473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/test1$Flask__manage_py_.coverage" NAME="Flask (manage.py) Coverage Results" MODIFIED="1575637537062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
